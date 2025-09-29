@@ -1,14 +1,20 @@
-# 모던 자바스크립트 Deep Dive
+# 🎯 모던 자바스크립트 Deep Dive
 
-JavaScript 실습 예제 모음
+JavaScript 언어의 기초부터 고급 기능까지 실습하고 정리하는 개인 학습 저장소입니다.
 
-## 목차
+## 📁 프로젝트 구조
 
-### 16. 프로퍼티 어트리뷰트
+```
+js-deep-dive/
+├──
+└── README.md
+```
 
-#### 📁 실습 파일
-- `/프로퍼티 어트리뷰트/접근자프로퍼티.js`
-- `/프로퍼티 어트리뷰트/프로퍼티정의.js`
+
+## 🗃️ 학습 정리
+
+- [자바스크립트란?](https://www.notion.so/27b8e70ba5ff8078abbbc48da9f9263e?source=copy_link)
+- [개발 환경과 실행 방법](https://www.notion.so/27b8e70ba5ff8067aae5e790afc1bd5f?source=copy_link)
 
 ### 📝 참고
 이 저장소는 "모던 자바스크립트 Deep Dive" 도서의 학습 과정에서 작성한 실습 코드를 담고 있습니다.
