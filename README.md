@@ -20,6 +20,9 @@ js-deep-dive/
 - [표현식과 문](https://www.notion.so/27d8e70ba5ff80d2a18be2ef699b6dcd?source=copy_link)
 - [데이터 타입](https://www.notion.so/27f8e70ba5ff80e0b7d6ced09a9d746e?source=copy_link)
 - [연산자](https://www.notion.so/27f8e70ba5ff80d4b3e4c271482ed038?source=copy_link)
+- [제어문](https://www.notion.so/2808e70ba5ff8028aad5f46066c9d41b?source=copy_link)
+- [타입 변환](https://www.notion.so/2808e70ba5ff8089b9f3f958dfd6c588?source=copy_link)
+- [단축 평가](https://www.notion.so/2808e70ba5ff8067a572f7a71ebe1275?source=copy_link)
 
 ### 📝 참고
 이 저장소는 "모던 자바스크립트 Deep Dive" 도서의 학습 과정에서 작성한 실습 코드를 담고 있습니다.
